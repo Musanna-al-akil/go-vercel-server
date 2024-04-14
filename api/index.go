@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/gofiber/fiber/v3/middleware/adaptor"
-	"github.com/gofiber/fiber/v3"
+	"github.com/gofiber/fiber/v2/middleware/adaptor"
+	"github.com/gofiber/fiber/v2"
 	"net/http"
 )
 
